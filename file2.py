@@ -1,2 +1,0 @@
-name="production"
-print(name)
